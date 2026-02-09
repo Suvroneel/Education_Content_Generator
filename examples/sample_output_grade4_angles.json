@@ -1,0 +1,45 @@
+{
+  "grade": 4,
+  "topic": "Types of angles",
+  "generated_content": {
+    "explanation": "Angles are everywhere around us! When two lines meet at a point, they make an angle.\n\nThere are different types of angles based on how big they are. A right angle is like the corner of a book - it makes an 'L' shape. An acute angle is smaller than a right angle, like a slice of pizza. An obtuse angle is bigger than a right angle, like when you open a door wide.\n\nLearning about angles helps us understand shapes and spaces better!",
+    "mcqs": [
+      {
+        "question": "What does a right angle look like?",
+        "options": [
+          "A) Like the corner of a book",
+          "B) Like a full circle",
+          "C) Like a straight line",
+          "D) Like the letter Z"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "Which angle is smaller than a right angle?",
+        "options": [
+          "A) Obtuse angle",
+          "B) Straight angle",
+          "C) Acute angle",
+          "D) Full angle"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "An obtuse angle is:",
+        "options": [
+          "A) Smaller than a right angle",
+          "B) Bigger than a right angle",
+          "C) Equal to a right angle",
+          "D) Always 180 degrees"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  "review_result": {
+    "status": "pass",
+    "feedback": [
+      "Content looks good!"
+    ]
+  }
+}
